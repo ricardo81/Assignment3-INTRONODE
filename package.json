@@ -1,0 +1,19 @@
+{
+  "name": "Ass3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.6.0",
+    "express": "4.16.3",
+    "mongodb": "3.0.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
